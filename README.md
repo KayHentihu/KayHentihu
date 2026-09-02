@@ -39,6 +39,12 @@ I'm also interested in exploring the world of Cybersecurity and continuously lea
 
 ---
 
+## 💻 Most Used Languages
+
+![Most Used Languages](https://raw.githubusercontent.com/KayHentihu/KayHentihu/refs/heads/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+
+---
+
 ## 📂 My Learning Journey
 
 🔹 C++ Programming  
