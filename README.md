@@ -72,7 +72,7 @@ I'm also interested in exploring the world of Cybersecurity and continuously lea
 
 ### 👾 Pac-Man Contribution Game
 
-![Pac-Man contribution graph](https://raw.githubusercontent.com/KayHentihu/KayHentihu/output/pacman-contribution-graph-dark.svg)
+![Pac-Man contribution graph](https://raw.githubusercontent.com/KayHentihu/KayHentihu/pacman-output/pacman-contribution-graph-dark.svg)
 
 ---
 
