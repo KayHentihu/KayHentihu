@@ -39,13 +39,6 @@ I'm also interested in exploring the world of Cybersecurity and continuously lea
 
 ---
 
-
-## 📊 GitHub Statistics
-
-![Kay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayHentihu&show_icons=true&theme=github_dark&show_rank=true)
-
----
-
 ## 📂 My Learning Journey
 
 🔹 C++ Programming  
