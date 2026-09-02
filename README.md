@@ -58,4 +58,10 @@ I'm also interested in exploring the world of Cybersecurity and continuously lea
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/KayHentihu/KayHentihu/output/github-snake-dark.svg)
+
+---
+
 ### 🚀 Keep learning, keep building!
