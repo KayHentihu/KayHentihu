@@ -25,7 +25,7 @@ I'm also interested in exploring the world of Cybersecurity and continuously lea
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -66,11 +66,11 @@ I'm also interested in exploring the world of Cybersecurity and continuously lea
 
 ## 🎮 Play With Me
 
-### 🐍 Contribution Snake
+🐍 **Contribution Snake**
 
 ![Snake animation](https://raw.githubusercontent.com/KayHentihu/KayHentihu/output/github-snake-dark.svg)
 
-### 👾 Pac-Man Contribution Game
+👾 **Pac-Man Contribution Game**
 
 ![Pac-Man contribution graph](https://raw.githubusercontent.com/KayHentihu/KayHentihu/pacman-output/pacman-contribution-graph-dark.svg)
 
