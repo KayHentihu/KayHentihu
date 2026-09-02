@@ -64,9 +64,15 @@ I'm also interested in exploring the world of Cybersecurity and continuously lea
 
 ---
 
-## 🐍 Contribution Snake
+## 🎮 Play With Me
+
+### 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/KayHentihu/KayHentihu/output/github-snake-dark.svg)
+
+### 👾 Pac-Man Contribution Game
+
+![Pac-Man contribution graph](https://raw.githubusercontent.com/KayHentihu/KayHentihu/output/pacman-contribution-graph-dark.svg)
 
 ---
 
